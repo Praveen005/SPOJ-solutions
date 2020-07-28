@@ -1,6 +1,6 @@
 /*
 
-KTH NUMBER  BINARY REPRESENTAION    AMUSING NUMBER     value of i (1<<i)
+KTH NUMBER  BINARY REPRESENTAION    AMUSING NUMBER                      value of i (1<<i)
 1                0                         5					1
 2                1                         6					"
 3               00                        55					2
@@ -18,17 +18,17 @@ KTH NUMBER  BINARY REPRESENTAION    AMUSING NUMBER     value of i (1<<i)
 15            0000                      5555					4
 16            0001                      5556
 17            0010                      5565
-18            0011                      5566
+18            0011                      5566					"
 19            0100                      5655
 20            0101                      5656
 21            0110                      5665
 22            0111                      5666					"
 23            1000                      6555
 24            1001                      6556
-25            1010                      6565
+25            1010                      6565					"
 26            1011                      6566
 27            1100                      6655
-28            1101                      6656
+28            1101                      6656					"
 29            1110                      6665
 30            1111                      6666					"
 31	     00000		       55555					5
